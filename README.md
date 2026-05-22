@@ -1,18 +1,16 @@
-# QuizApp
+# Quiz App
 
-A simple Android Quiz Application built using Kotlin and Jetpack Compose.
+An Android Quiz Application developed using Kotlin and Android Studio.
 
 ## Features
-- Multiple choice quiz questions
-- Score calculation
-- Next question navigation
+- Multiple choice quiz
+- Score tracking
 - Restart quiz functionality
-- Clean user interface
 
 ## Technologies Used
 - Kotlin
 - Jetpack Compose
 - Android Studio
 
-## Author
-Jyothi
+## Developed By
+Jyothi Kolli
