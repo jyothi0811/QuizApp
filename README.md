@@ -12,10 +12,10 @@ An Android Quiz Application developed using Kotlin and Android Studio.
 - Jetpack Compose
 - Android Studio
 ## Screenshots
-<img width="1080" height="2400" alt="WhatsApp Image 2026-05-24 at 16 33 55 (1)" src="https://github.com/user-attachments/assets/2c885cea-d40d-4d5d-a907-31d9d3ef372b" />
-<img width="1080" height="2400" alt="WhatsApp Image 2026-05-24 at 16 33 55" src="https://github.com/user-attachments/assets/c4319a53-bbf2-4302-aba2-91097f2c721a" />
-<img width="1080" height="2400" alt="WhatsApp Image 2026-05-24 at 16 33 54 (1)" src="https://github.com/user-attachments/assets/5c0605f0-8917-47f6-a9f3-62512a6fbd3d" />
-<img width="1080" height="2400" alt="WhatsApp Image 2026-05-24 at 16 33 53" src="https://github.com/user-attachments/assets/a706ac09-4ca5-4772-8fc8-1cceea5304d2" />
+<img width="1080" height="2043" alt="WhatsApp Image 2026-05-24 at 16 39 34 (1)" src="https://github.com/user-attachments/assets/e6b796ab-93ea-4124-9ff5-11f1b0b41ee6" />
+<img width="1080" height="2062" alt="WhatsApp Image 2026-05-24 at 16 39 34" src="https://github.com/user-attachments/assets/61e58d2f-1eb5-4b67-8306-cb335e1a614e" />
+<img width="1025" height="2007" alt="WhatsApp Image 2026-05-24 at 16 39 33 (1)" src="https://github.com/user-attachments/assets/e713b730-c5d6-4fad-9fc8-82a07010c52d" />
+<img width="1080" height="2263" alt="WhatsApp Image 2026-05-24 at 16 39 33" src="https://github.com/user-attachments/assets/980891fc-26f6-4706-98fe-653d0387efb1" />
 
 
 ## Developed By
