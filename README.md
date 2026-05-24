@@ -12,12 +12,11 @@ An Android Quiz Application developed using Kotlin and Android Studio.
 - Jetpack Compose
 - Android Studio
 ## Screenshots
-<img width="1080" height="2400" alt="WhatsApp Image 2026-05-24 at 12 41 11" src="https://github.com/user-attachments/assets/d81391d6-9bd1-4b83-bfd2-32671ca0803c" />
-<img width="1080" height="2400" alt="WhatsApp Image 2026-05-24 at 12 41 12" src="https://github.com/user-attachments/assets/560f44bd-19a4-4ae1-9b94-fb0148b54f81" />
-<img width="1080" height="2400" alt="WhatsApp Image 2026-05-24 at 12 41 55 (1)" src="https://github.com/user-attachments/assets/eb7e830b-b30e-4139-871f-f39384c44d84" />
-<img width="1080" height="2400" alt="WhatsApp Image 2026-05-24 at 12 41 55 (2)" src="https://github.com/user-attachments/assets/16cd03e5-25cb-4a14-8f19-41ddd1b5dc6c" />
-<img width="1080" height="2400" alt="WhatsApp Image 2026-05-24 at 12 41 55" src="https://github.com/user-attachments/assets/40ef5da1-1fe3-4da4-9a52-5685bec7145a" />
-<img width="1080" height="2400" alt="WhatsApp Image 2026-05-24 at 12 41 56" src="https://github.com/user-attachments/assets/09c45522-1833-47a0-8b92-360dc2eecc6c" />
+<img width="1080" height="2400" alt="WhatsApp Image 2026-05-24 at 16 33 55 (1)" src="https://github.com/user-attachments/assets/2c885cea-d40d-4d5d-a907-31d9d3ef372b" />
+<img width="1080" height="2400" alt="WhatsApp Image 2026-05-24 at 16 33 55" src="https://github.com/user-attachments/assets/c4319a53-bbf2-4302-aba2-91097f2c721a" />
+<img width="1080" height="2400" alt="WhatsApp Image 2026-05-24 at 16 33 54 (1)" src="https://github.com/user-attachments/assets/5c0605f0-8917-47f6-a9f3-62512a6fbd3d" />
+<img width="1080" height="2400" alt="WhatsApp Image 2026-05-24 at 16 33 53" src="https://github.com/user-attachments/assets/a706ac09-4ca5-4772-8fc8-1cceea5304d2" />
+
 
 ## Developed By
 Jyothi Kolli
