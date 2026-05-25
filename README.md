@@ -18,7 +18,6 @@ An Android Quiz Application developed using Kotlin and Android Studio.
 <img width="1080" height="2263" alt="WhatsApp Image 2026-05-24 at 16 39 33" src="https://github.com/user-attachments/assets/980891fc-26f6-4706-98fe-653d0387efb1" />
 
 ## Demo video
-https://drive.google.com/file/d/1h_YprFz4KFIb87rmYAv7ypJJNyHG524a/view?usp=drive_link
-
+https://drive.google.com/file/d/1DjrNPHN_arn8nSrMzSIkF8xrSXuU0A91/view?usp=drive_link
 ## Developed By
 Jyothi Kolli
